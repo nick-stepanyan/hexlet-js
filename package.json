@@ -19,5 +19,8 @@
     "homepage": "https://github.com/nick-stepanyan/hexlet-js#readme",
     "dependencies": {
         "lodash": "^4.17.21"
+    },
+    "devDependencies": {
+        "nodejs-package": "^0.0.3"
     }
 }
