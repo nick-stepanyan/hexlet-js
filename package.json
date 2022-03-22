@@ -1,13 +1,14 @@
 {
     "name": "hexlet-js-repository",
     "version": "1.0.0",
+    "type": "module",
     "description": "Мой первый проект на Хекслете Ура, получилось синхронизировать и запушить!",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-        "type": "module",
+        "type": "git",
         "url": "git+https://github.com/nick-stepanyan/hexlet-js.git"
     },
     "author": "Nick",
